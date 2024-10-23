@@ -1,2 +1,3 @@
 xhofe/alist:latest
 imaegoo/twikoo:latest
+umamisoftware/umami:latest
