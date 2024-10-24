@@ -1,4 +1,1 @@
-xhofe/alist:latest
-imaegoo/twikoo:latest
-docker.umami.is/umami-software/umami:mysql-latest
-mysql:8.0
+portainer/portainer-ce:2.21.3
