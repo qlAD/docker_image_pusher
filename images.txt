@@ -2,3 +2,4 @@ portainer/portainer-ce:2.21.3
 jc21/nginx-proxy-manager:2.12.1
 imaegoo/twikoo:1.6.39
 corentinth/it-tools:2024.10.22-7ca5933
+node:18-alpine
