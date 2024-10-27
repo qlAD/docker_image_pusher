@@ -5,3 +5,4 @@ corentinth/it-tools:2024.10.22-7ca5933
 node:18-alpine
 mongo:8.0.3
 mongo-express:1.0-20-alpine3.19
+mongo-express:1.0.2-18
