@@ -6,3 +6,4 @@ node:18-alpine
 mongo:8.0.3
 mongo-express:1.0-20-alpine3.19
 mongo-express:1.0.2-18
+louislam/uptime-kuma:1
