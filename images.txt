@@ -11,3 +11,4 @@ gitlab/gitlab-ce:17.7.0-ce.0
 gitea/gitea:1.22
 mysql:8.0
 soulter/astrbot:latest
+nginx:1.27.4
