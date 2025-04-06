@@ -12,3 +12,4 @@ gitea/gitea:1.22
 mysql:8.0
 soulter/astrbot:latest
 nginx:1.27.4
+lss233/kirara-agent-framework:latest
