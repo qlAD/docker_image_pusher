@@ -1,5 +1,6 @@
-imaegoo/twikoo:1.6.39
-louislam/uptime-kuma:1
-gitea/gitea:1.22
-nginx:1.27.4
+imaegoo/twikoo:latest
+louislam/uptime-kuma:latest
+gitea/gitea:latest
+nginx:latest
 containrrr/watchtower:latest
+ghcr.io/docker-mailserver/docker-mailserver:latest
